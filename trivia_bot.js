@@ -16,4 +16,4 @@ console.log(codingFact)
 codingFact = favoriteLanguage + " is not the same as Java."
 console.log(codingFact)
 
-console.log("It was fun sharing these facts with you. Goodbye! - " + botName + " from " + botLocation + ".")
+console.log("It was fun sharing these facts with you. Goodbye! - " + botName + " from " + botLocation + ".");
